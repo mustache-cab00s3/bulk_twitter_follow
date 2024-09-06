@@ -1,6 +1,17 @@
 # bulk_twitter_follow
 A quick script to follow a list of twitter usernames
 
+## Setup
+
+```bash
+[~/github/bulk_twitter_follow] [main] ❱❱❱ python3 install_reqs.p
+
+'twitter_api_client' is not installed. Installing now...
+...
+'twitter_api_client' has been installed successfully.
+```
+
+
 ## Usage
 
 ```bash
